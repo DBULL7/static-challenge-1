@@ -1,0 +1,25 @@
+body {
+  display: inline-flex;
+}
+
+.section1 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section2 {
+  display: flex;
+  align-self: flex-end;
+}
+
+.bigbox {
+
+}
+
+.box {
+
+}
+
+img {
+
+}
