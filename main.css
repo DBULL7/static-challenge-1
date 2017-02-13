@@ -1,0 +1,42 @@
+.box {
+  width: 33%;
+  height: 33%;
+}
+
+.bigbox {
+  background-color: #8F7952;
+  width: 66%;
+  height: 33%;
+}
+
+.profile {
+background-color: #F15A49;
+}
+
+.experience {
+  background-color: #FF9E00;
+}
+
+.education {
+  background-color: #1E8BC4;
+}
+
+.blog {
+  background-color: #8F7952;
+}
+
+.social {
+  background-color: #F15A49;
+}
+
+.contact {
+  background-color: #FF9E00;
+}
+
+.portfolio {
+  background-color: #1E8BC4;
+}
+
+img {
+  width: auto;
+}
